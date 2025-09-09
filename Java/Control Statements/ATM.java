@@ -1,4 +1,4 @@
-package com.codegnan.controlStatements;
+
 
 import java.util.Scanner;
 
@@ -68,3 +68,4 @@ public class ATM {
             }while(choice!=4);
     }
 }
+
