@@ -1,4 +1,4 @@
-
+package com.codegnan.Patterns;
 import java.util.Scanner;
 public class Butterfly {
 	public static void main(String[] args) {
